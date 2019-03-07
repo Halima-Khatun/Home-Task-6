@@ -1,0 +1,51 @@
+.logo{
+    background-color: red;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.navigation{
+    background-color: green;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.header{
+    background-color: blue;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.sidebar{
+    background-color: springgreen;
+    width: 30%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    float: left;
+    text-align: center
+}
+
+
+.bodyarea{
+    background-color: orange;
+    width: 65%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    float: right;
+    text-align: center
+}
+
+.footer{
+   background-color: black;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom0: 10px;
+    text-align: center
+}
+   
+}
+
